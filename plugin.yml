@@ -1,0 +1,7 @@
+name: Feed
+version: 1.0.0
+main: feed\Main
+src-namespace-prefix: feed
+api: 5.0.0
+author: ArkaniaStudios
+website: https://arkaniastudios.com
